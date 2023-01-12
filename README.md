@@ -1,16 +1,27 @@
-### Hi there 👋
+### Technical Skills:
+
+Backend:
+* NodeJS, Express, Socket.IO, GraphQL, TypeScript
+* MongoDB, Mongoose ODM, SQL, PostrgreSQL, MySQL, Sequelize ORM
+* Git
+* Redis, Memcached
+* Passport.js
+* Jest, Supertest, Postman
+* Docker
+* Linux
+
+Typographic Design:
+* Adobe Acrobat Pro
+* Adobe InDesign
+* Adobe Photoshop
+* Affinity Designer
+* MathType
+
 
 <!--
-**LvovNikita/LvovNikita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Contact
+- Languages
+- Education
+- Expirience
+- Side Projects
 -->
