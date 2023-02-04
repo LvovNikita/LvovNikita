@@ -1,13 +1,17 @@
 ### Technical Skills:
 
 Backend:
-* NodeJS, Express, Socket.IO, GraphQL, TypeScript
-* MongoDB, Mongoose ODM, SQL, PostrgreSQL, MySQL, Sequelize ORM
-* Git
+* NodeJS
+* TypeScript
+* Express, Keystone 6
+* MongoDB, Mongoose ODM, SQL, MySQL
 * Redis, Memcached
+* GraphQL
+* Socket.IO
 * Passport.js
 * Jest, Supertest, Postman
 * Docker
+* Git
 * Linux
 
 Typographic Design:
@@ -24,4 +28,5 @@ Typographic Design:
 - Education
 - Expirience
 - Side Projects
+Github Actions
 -->
