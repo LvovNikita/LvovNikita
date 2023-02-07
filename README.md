@@ -8,10 +8,10 @@ Backend:
 * Redis, Memcached
 * GraphQL
 * Socket.IO
-* Passport.js
+* Passport.js, Firebase Authentication
 * Jest, Supertest, Postman
 * Docker
-* Git
+* Git (GitHub, GitHub Actions)
 * Linux
 
 Typographic Design:
@@ -28,5 +28,4 @@ Typographic Design:
 - Education
 - Expirience
 - Side Projects
-Github Actions
 -->
