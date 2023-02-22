@@ -4,8 +4,8 @@ Backend:
 * NodeJS
 * TypeScript
 * Express, Keystone 6
-* MongoDB, Mongoose ODM, SQL, MySQL
-* Redis, Memcached
+* MongoDB, Mongoose ODM, SQL (MySQL)
+* Redis
 * GraphQL
 * Socket.IO
 * Passport.js, Firebase Authentication
@@ -20,7 +20,6 @@ Typographic Design:
 * Adobe Photoshop
 * Affinity Designer
 * MathType
-
 
 <!--
 - Contact
