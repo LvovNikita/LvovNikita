@@ -5,13 +5,10 @@ Backend:
 * TypeScript
 * Express, Keystone 6
 * MongoDB, Mongoose ODM, SQL (MySQL)
-* Redis
 * GraphQL
-* Socket.IO
-* Passport.js, Firebase Authentication
-* Jest, Supertest, Postman
-* Docker
-* Git (GitHub, GitHub Actions)
+* Passport.js
+* Jest, Postman
+* Git (GitHub)
 * Linux
 
 Typographic Design:
@@ -22,6 +19,7 @@ Typographic Design:
 * MathType
 
 <!--
+- GitHub Actions, Redis, Socket.IO, Firebase Authentication, Supertest, Docker, Vue
 - Contact
 - Languages
 - Education
