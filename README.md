@@ -1,4 +1,4 @@
-### Technical Skills:
+<!--### Technical Skills:
 
 Backend:
 * NodeJS
@@ -17,7 +17,6 @@ Typographic Design:
 * Affinity Designer
 * MathType
 
-<!--
 - GitHub Actions, Redis, Socket.IO, Firebase Authentication, Supertest, Docker, Vue, GraphQL
 - Contact
 - Languages
